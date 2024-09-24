@@ -6,11 +6,11 @@
 
 
 ## Stack
-    React, Google Maps API
-    Express
+    React
+    Google Maps API
+    Express.JS
     Sockets
     VBB JavaScript modules by @derhuerst
-
 
 ## Project description
 *Run!* aims at fighting an abusive transportation fare system in a city that is changing fast, where the average price of all aspects of life is rising, but not citizens' incomes. *Run!* allows users help each other by reporting fare inspections.
